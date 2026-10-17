@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![Download-Journal-cover — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # Nature封面合集下载
 
 ## 引言
@@ -285,3 +289,7 @@ nature_journal = {
 最后只需要修改想要的年份就能下载对应年份的封面了。
 
 并且，随着日期的更新，重复运行代码就可以自动下载新的封面，跳过已经下载过的封面。
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
